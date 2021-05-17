@@ -1,0 +1,21 @@
+
+h1
+{
+    font-size: 20px; 
+
+    font-style: italic;
+    
+}
+
+#carte
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+table
+{
+    border-collapse: collapse;
+}
+td, th
+{
+    border: 1px solid black;
+}
