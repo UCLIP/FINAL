@@ -11,18 +11,7 @@ document.getElementById("futur").onclick = function () {
     location.href = "futur/index.html";
 };
 
-setTimeout(couleur, 4000);
-setTimeout(couleurtxt, 4000);
-function couleur()
-{
-    color=prompt("entrez la couleur que vous voulez en anglais pour le site ");
-    document.body.style.backgroundColor =color;
-}
-function couleurtxt()
-{
-    colortxt=prompt("entrez la couleur que vous voulez en anglais pour le texte");
-    document.body.style.color =colortxt;
-}
+
 let date=Date();
 document.write("votre date de connection est : "+ date);
 
