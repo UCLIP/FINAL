@@ -75,3 +75,12 @@ td, th
 {
     border: 1px solid black;
 }
+body{
+ 
+ background-image:url(../arriereplan.jpg);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+width: 2000px;
+height: 1000px;
+}
