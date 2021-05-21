@@ -15,9 +15,7 @@ h1
 
 #fondecran {
  
- position: fixed; 
- top: 0; 
- left: 0; 
+ background-image:url(arriereplan.jpg);
  
  min-width: 100%;
  min-height: 100%;
