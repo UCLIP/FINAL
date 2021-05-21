@@ -13,18 +13,7 @@ document.getElementById("acceuil").onclick = function () {
 document.getElementById("futur").onclick = function () {
     location.href = "../futur/index.html";
 };
-setTimeout(couleur, 4000);
-setTimeout(couleurtxt, 4000);
-function couleur()
-{
-    color=prompt("entrez la couleur que vous voulez en anglais pour le site ");
-    document.body.style.backgroundColor =color;
-}
-function couleurtxt()
-{
-    color=prompt("entrez la couleur que vous voulez en anglais pour le texte");
-    document.body.style.color =color;
-}
+
 var diaporama = 1;
 affichage(diaporama);
 
